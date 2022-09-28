@@ -1,0 +1,4 @@
+.env
+media
+Pipfile.lock
+__pycache__
